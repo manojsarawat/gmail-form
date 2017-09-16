@@ -1,0 +1,31 @@
+*{
+margin: 0px;
+    padding: 0px;
+}
+
+
+.heading {
+
+    margin-left: 150px;
+
+}
+.action{
+
+}
+.form{
+    margin-top: 60px;
+    background-color:lightgrey;
+}
+.logo{
+    margin-left: 70px;
+
+}
+.top{
+    margin-left: 110px;
+
+}
+.select{
+    border-radius: 3px;
+}
+.next step{;
+}
